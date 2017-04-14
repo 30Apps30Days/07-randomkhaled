@@ -19,7 +19,20 @@
       <div class="mdl-layout__drawer">
         <span class="mdl-layout-title">Random Khaled</span>
 
-        <form id="options" action="#">
+        <form id="options" action="#" class="mdl-grid">
+          <p>
+            Tap DJ Khaled to toggle him.
+            Adjust his yelling frequency below.
+          </p>
+
+          <div>
+            <label for="kpd">Khaleds per Day</label>
+            <em class="help-text">Max is on loop.</em>
+            <p style="width: 100%; ">
+              <input id="kpd" class="mdl-slider mdl-js-slider"
+                type="range" min="0" max="14" value="5" step="1" />
+            </p>
+          </div>
         </form>
 
         <footer>
@@ -43,6 +56,7 @@
       </main>
     </div>
 
+    <script src="cordova.js"></script>
     <script src="app/index.js"></script>
   </body>
 </html>
