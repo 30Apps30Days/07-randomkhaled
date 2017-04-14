@@ -1,0 +1,14 @@
+[{
+  "type":"group",
+  "title": "Common",
+  "items":[{
+    "title": "Khaleds per Day",
+    "type":"textfield",
+    "key":"kpd"
+  }, {
+    "title":"Debug",
+    "type":"toggle",
+    "default":false,
+    "key":"debug"
+  }]
+}]
