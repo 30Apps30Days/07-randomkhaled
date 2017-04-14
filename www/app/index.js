@@ -52,16 +52,13 @@ var DJK_SOUNDS = shuffle([
   'fxPBu_vX9Q0.mp3',
   'Gvsao2_jsNk.mp3',
   'HdT_oKderEs.mp3',
-  'ia9rPW8yXqE.mp3',
   'ii0rSwxVkFY.mp3',
   'L1xlu7Zktm8.mp3',
   'LdE3WlQ__GY.mp3',
   'OyRRnZ8vxA0.mp3',
   'QtPluXq_hko.mp3',
   'rVEUbU9hQEo.mp3',
-  'sDzxQBgj-f8.mp3',
   'SFLSOIufuhM.mp3',
-  'VihUO-4-wCc.mp3',
   'zQhy9eE8MBg.mp3',
   'zWhowrdR4dU.mp3'
 ]);
